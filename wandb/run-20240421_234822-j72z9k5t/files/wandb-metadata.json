@@ -1,0 +1,38 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-04-21T19:48:24.334942",
+    "startedAt": "2024-04-21T19:48:22.859963",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "gss-MacBook-Pro.local",
+    "username": "Saif",
+    "executable": "/Users/Saif/Desktop/AI/.env/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2900,
+        "min": 2900,
+        "max": 2900
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2900,
+            "min": 2900,
+            "max": 2900
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.62699127197266,
+            "used": 13.359569549560547
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
